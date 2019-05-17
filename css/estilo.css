@@ -1,0 +1,20 @@
+.foto {
+    width: 300px;
+    height: 300px; 
+    border-radius: 50%;
+}
+.foto-nome {
+    display: flex;   
+}
+.cabecario {
+    display: flex; 
+    justify-content: space-between;
+    background: cornflowerblue;
+}
+.sessao-1 {
+    background: coral;
+
+}
+.sessao-2 {
+    background: yellow;
+}
